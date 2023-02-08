@@ -1,5 +1,4 @@
-# BYERS.DEV
-
+# [BYERS.DEV](https://www.byers.dev/)
 My simple personal website that acts as my own space on the internet.
 
 ## Description
